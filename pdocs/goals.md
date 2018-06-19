@@ -18,3 +18,4 @@ Addtional Goals
 - Authentication of some form
   - But should somehow be optional (like not on DVD)
 - Search
+- Fast
