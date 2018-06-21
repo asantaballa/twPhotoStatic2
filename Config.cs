@@ -1,13 +1,10 @@
 using System;
 
-namespace macdotnet01
+namespace twPhotoStatic2
 {
-    public class Config
+    public static class Config
     {
-        public string DataDir = "/Users/albertosantaballa/Dropbox/Data/Photos";
-        public Config() 
-        { 
-            Console.WriteLine("Config: Constructor"); 
-        }
+        public static string DataDirIn = "/Users/albertosantaballa/Dropbox/Data/photogen/photosin";
+        public static string DataDirOut = "/Users/albertosantaballa/Dropbox/Data/photogen/siteout";
     }
 }

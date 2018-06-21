@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace macdotnet01
+namespace twPhotoStatic2
 {
     public class FileScan
     {
@@ -9,14 +9,13 @@ namespace macdotnet01
 
         public FileScan(string srcDir) 
         { 
-            Console.WriteLine("FileScan: Constructor"); 
+            //Console.WriteLine("FileScan: Constructor"); 
             _srcDir = srcDir;
-            Console.WriteLine($"path = {srcDir}");
         }
         
         public void Run()
         {
-            Console.WriteLine("FileScan: Run");
+            //Console.WriteLine("FileScan: Run");
             ProcessDirectory(_srcDir);
         }
 
