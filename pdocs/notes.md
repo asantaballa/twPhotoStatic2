@@ -15,6 +15,6 @@
     - "if we have one of these then insert this section of the template"
     - Look for templating engines
         - Maybe like yeoman/bower?
-        - T4 from MS sounds inetresting
+        - T4 from MS sounds interesting [https://docs.microsoft.com/en-us/visualstudio/modeling/design-time-code-generation-by-using-t4-text-templates?view=vs-2017]
           - And build file/directory part directly
 
