@@ -15,4 +15,6 @@
     - "if we have one of these then insert this section of the template"
     - Look for templating engines
         - Maybe like yeoman/bower?
+        - T4 from MS sounds inetresting
+          - And build file/directory part directly
 
