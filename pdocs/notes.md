@@ -5,7 +5,7 @@
   - Display album/collection as a list with thumbnails
   - Display list of albums
 
-*Templates*
+###Templates
 
   - Need way to do templates
   - Need to be able relate to data values but also to directories
